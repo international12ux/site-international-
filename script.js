@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5000/api";
+const API_URL = "https://dryer-went-july-cherry.trycloudflare.com";
 let currentUser = null;
 let chatPollInterval = null;
 let currentLang = 'en';
