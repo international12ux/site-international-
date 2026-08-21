@@ -1,4 +1,4 @@
-const API_URL = "https://dryer-went-july-cherry.trycloudflare.com";
+const API_URL = "https://mxime-102-18-159-208.run.pinggy-free.link";
 let currentUser = null;
 let chatPollInterval = null;
 let currentLang = 'en';
